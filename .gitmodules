@@ -1,0 +1,3 @@
+[submodule "schoolapp-frontend"]
+	path = schoolapp-frontend
+	url = https://github.com/Thanasisxipo/Schoolapp-frontend.git
